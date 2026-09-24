@@ -1,3 +1,5 @@
+> **Maintained lightly** for historical Medium/blog links. Active portfolio: [kennethteh90.github.io](https://github.com/kennethteh90/kennethteh90.github.io).
+
 # RackSessionRedis
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/rack_session_redis`. To experiment with that code, run `bin/console` for an interactive prompt.
